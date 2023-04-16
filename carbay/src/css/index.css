@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+.bgFooter {
+  background: repeating-linear-gradient(0deg, transparent, #0a0e17);
+  background-size: 3em 3em;
+  background-color: #101624;
+  opacity: 1
+}
+
